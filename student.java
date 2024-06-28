@@ -19,7 +19,7 @@ public class student {
     }
 
     public static void main(String[] args) {
-        student student = new student("John Doe", "15-04-2000");
+        student student = new student("Adarsh", "15-04-2000");
         student.displayStudentInfo();
     }
 }
